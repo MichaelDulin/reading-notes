@@ -6,4 +6,4 @@ here is my interpretation of growth mindset
 - reminder 2
 - reminder 3
 
-Link to my github portfolio: https://github.com/MichaelDulin
+Link to my [Github Link](https://github.com/MichaelDulin)
