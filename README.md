@@ -1,5 +1,5 @@
 # reading-notes
-![Mountain range banner](https://github.com/MichaelDulin/reading-notes/blob/main/banner.jpg)
+![Mountain range banner](banner.jpg)
 
 My reading journal for Code Fellows
 
