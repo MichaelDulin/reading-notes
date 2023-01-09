@@ -5,7 +5,7 @@ Hey there, my name is Michael Dulin. I am Navy veteran and currently a student a
 
 Link to my [Github Portfolio](https://github.com/MichaelDulin)
 
-> Success is not final, failure is not failure: it is the courage to continue that counts.
+> Success is not final, failure is not fatal: it is the courage to continue that counts.
 >
 >   -Winston S. Churchill
 
@@ -15,5 +15,4 @@ Growth mindset is the ability to understand that intelegence, talent and skill c
 - Every challenge is an opportunity to learn and grow
 - An indivisuals mindset can either be their greatest strength or inhibitor for success
 - Intellegence is a skill that can be built upon and is not preordained 
-
 
