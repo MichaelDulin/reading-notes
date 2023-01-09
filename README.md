@@ -9,7 +9,7 @@ My reading journal for Code Fellows
 
 **A little about me**
 
-Hey there, my name is Michael Dulin. I am a United States Navy veteran having spent 5 years as a Hosptial Corpsman. Currently enrolled in codefellows, it is my hope that  I can build upon my skillset and secure a career in software development.
+Hey there, my name is Michael Dulin. I am a United States Navy veteran having spent 5 years as a Hosptital Corpsman. Currently enrolled in codefellows, it is my hope that  I can build upon my skillset and secure a career in software development.
 Link to my [Github Portfolio](https://github.com/MichaelDulin)
 
 ## Growth Mindset
