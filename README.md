@@ -1,5 +1,5 @@
 # reading-notes
-!(/assets/images//banner.jpg)
+![](https://github.com/MichaelDulin/reading-notes/blob/main/banner.jpg)
 
 My reading journal for Code Fellows
 
