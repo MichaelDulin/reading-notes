@@ -21,4 +21,7 @@ Reminders to maintain growth mindset:
 - An indivisuals mindset can either be their greatest strength or inhibitor for success
 - Intellegence is a skill that can be built upon and is not preordained 
 
+## Table of Contents
 [Class 1 Notes](class1.md)
+
+[Class 2 Notes](class2.md)
