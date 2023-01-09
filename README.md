@@ -1,4 +1,6 @@
 # reading-notes
+!(/assets/images//banner.jpg)
+
 My reading journal for Code Fellows
 
 > Success is not final, failure is not fatal: it is the courage to continue that counts.
