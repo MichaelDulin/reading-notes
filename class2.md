@@ -22,7 +22,12 @@
 
 **Cheat Sheet**
 
-- Shell: Part of your OS which determines how it will behave
-- 
+- $Shell: Part of your OS which determines how it will behave
+- pwd: Print working directory 
+- ls: Will list current directory
+- root: The top of the directory
+- cd: Current directory
+- file: Obtain information about type of file or directory 
+- ls -a: list the contents of a directory, including hidden files
 
 ## Things I want to know more about
