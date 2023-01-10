@@ -1,4 +1,5 @@
 # Class 2 Reading Assignment
+
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
 *Resources from Module 2* 
