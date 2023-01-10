@@ -60,12 +60,12 @@
 
 **Semantics**
 - Refers to the meaning of a piece of code
-
-**Mozilla HTML Docs**
--
-
-**Mozilla HTML Elements**
--
-
+- in HTML, symantics refer to code with a value attached to it
+- HTML should be coded to represent the data that will populate
+- Benefits of using semantic markup:
+  - Search engines will consider its content important 
+  - Helps with the visually impaired 
+  - Easier to find meaningful blocks of code 
+  - Semantic naming mirrors proper element naming
 
 ## Things I want to know more about
