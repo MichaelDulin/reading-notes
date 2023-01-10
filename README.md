@@ -25,7 +25,7 @@ Reminders to maintain growth mindset:
 
 # Class 102 #
 
-[Class 1 Notes](reading-notes/102/class1.md)
+[Class 1 Notes](102/class1.md)
 
 [Class 2 Notes](102/class2.md)
 
