@@ -37,10 +37,29 @@
   - Simplicity
 
 **Mozilla HTML Basics**
--
+- HTML - Hyper Text Markup Language
+  - A markup language used to structure your content
+  - Consists of a series of elements and enclosing tags
+- Anatomy of HTML element
+  - Opening tag
+    - consists of name of element wrapped in angle brackets <p>
+  - Closing tag
+    - Same as opening tag but with a forwards slash </p>
+  - Content 
+    -  Content between tags
+  - Element
+    - The entirety of opening tag, closingtag and content
+- Anatomy of HTML document 
+  - <!DOCTYPE html> is the preamble
+  -  <html></html> all content must be wrapped in this
+  -  <head></head> acts as a container for all the things we don't want the user to see
+  -  <meta charset="utf-8"> sets chracter set for document ti UTF-8 (most written languages)
+  -  <meta name-"viewport" content="width=device-width"> viewport element / ensures the page renders at the width of viewpoint
+  -  <title></title> title element, title which appears in browser tab when the page is loaded
+  -  <body></body> contains ALL content thatyou want the user to see 
 
 **Semantics**
--
+- Refers to the meaning of a piece of code
 
 **Mozilla HTML Docs**
 -
