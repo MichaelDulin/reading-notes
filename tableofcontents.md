@@ -8,6 +8,8 @@
 
 [Class 3 Notes](102/class3.md)
 
+[Lab 03 Reflection](102/lab3discussion.md)
+
 [Class 4 Notes](102/class4.md)
 
 [Class 5 Notes](102/class5.md)
