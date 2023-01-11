@@ -53,6 +53,4 @@
     - 2. External and internal style sheets (in the head section)
     - 3. Browser Default
 
-**CSS Color**
-
 ## Things I want to know more about
