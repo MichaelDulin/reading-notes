@@ -24,9 +24,31 @@
     - x = f()
     - x += f()
     - x %= f() 
-  - s      
+  - assignments to properties applies w/ obejct 
+  - used to assign datatype to something else
+    - TRY NOT TO CHAIN ASSIGNMENTS
+- Comparison Operators:
+  - compares two operands and returns logical value - bool
+  - EX:
+    - ==
+    - !=
+    - ===
+    - !== 
+  - Note: === is strict / == is not strict
+    - == will compare string to number
+    - === will not     
 
 **Loops and Iterations**
-- 
+- Loops:
+  - Repeat code until desired value is met
+- for loop:
+  - Evaluates until condition evaluates to false
+  - 3 parts of for loop:
+    - Initializing expression: creates local variable (incrementor)
+    - Condition Expression: Evaluates code within loop until parameter is met
+    - Statement: Increments local variable each loop  
+- while loop:
+  - Executes as long as specified condition evaluates to true
+  - Does not *need* an incrementor 
 
 ## Things I want to know more about
