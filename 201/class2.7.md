@@ -33,7 +33,4 @@
 **Object Prototypes Using A Constructor** 
 
 
-**Object Proto
-
-
 ## Things I want to know more about
