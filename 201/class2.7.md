@@ -17,9 +17,9 @@
 
 **HTML Table Basics** 
 - 1. Why should tables not be used for page layouts?
-  - An older way of styling (css was terrible) - used to represent data, not page elements (well)
-- 2. List and describe 3 different semantic HTML elements used in an HTML <table>.
-  - <td> table data (smallest), <tr> row (for starting new lines), <th> table header, <col> column (verticle data with same tag)
+  - An older way of styling (css was terrible), used to represent data, not page elements (well)
+- 2. List and describe 3 different semantic HTML elements used in an HTML 'table.
+  - 'td' table data (smallest), 'tr' row (for starting new lines), 'th' table header, 'col column (verticle data with same tag)
 
 **Introducing Constructors**
  - 1. What is a constructor and what are some advantages to using it?
