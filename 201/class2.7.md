@@ -12,25 +12,17 @@
 **Class 7 Notes**
 
 **Domain Modeling**
-- Process of creating a conceptual model (code) for a specidic problem
-  - Model:
-    - Describes various entities, attributes and behaviors
-    - constraints that govern the problem
-    - stores data in properties -> encapsulates behavior in methods
-    - Referred to as Object-Oriented Model
-- Constructor:
-  - Houses properties to be inherited 
-  - Parameters determine the data used to populate a new object
-  - Can house functions, variables, datatypes, etc.
-- Instatialization:
-  - defines name of new object along with data passed to the constructor 
-  - defined by 'new' followed by constructor name        
+- 1. Explain why we need domain modeling.
 
 **HTML Table Basics** 
+- 1. Why should tables not be used for page layouts?
+- 2. List and describe 3 different semantic HTML elements used in an HTML <table>.
 
-
+**Introducing Constructors**
+ - 1. What is a constructor and what are some advantages to using it?
+ - 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
 **Object Prototypes Using A Constructor** 
-
+- 1. Explain prototypes and inheritance via an analogy from your previous work experience. (Note: This is a very common front end developer interview question)
 
 ## Things I want to know more about
