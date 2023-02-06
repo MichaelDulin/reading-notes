@@ -4,7 +4,7 @@
 
 **Resources from Class 9**
 - [Your First Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
-- How to Structure a Web Form[](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
+- [How to Structure a Web Form](https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form)
 - [Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 - [HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
 - [Event Refrences](https://developer.mozilla.org/en-US/docs/Web/Events)
