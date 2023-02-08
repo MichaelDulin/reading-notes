@@ -1,8 +1,8 @@
-# Class 2.11 Reading Assignment
+# Class 2.12 Reading Assignment
 
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
-**Resources from Class 11**
+**Resources from Class 12**
 - [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 - [Chart.js Documentation](https://www.chartjs.org/docs/latest/)
 - [Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
