@@ -39,8 +39,10 @@
 
 **What Google Learned From Its Quest to Build the Perfect Team**
 1. What are three key factors that contribute to psychologically safe teams?
-  -
+  - Trusting / being comfortable with your colleagues
+  - Having a supportive and organizational context - being clear with the mission and our roles within the team
+  - Leader behavior - The leader should be open and understanding as well as having the ability to enforce deadlines 
 2. Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
-  -
+  - When thinking back to succesful teams I have been a part of, the best have typically been those where all the members were comfortable with eachother and felt that we could share anything. It is also important to respect the dynamic between each members role
 3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
-  -
+  - I think that teams that perform well with a high degree of psychological safety can influence their workplace by showing them how a group can succesfuly execute the task at hand, their managment could implement these elements to other groups to perform better.
