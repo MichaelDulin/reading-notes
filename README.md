@@ -75,4 +75,34 @@ Reminders to maintain growth mindset:
 
 [Class 15 Notes](201/class2.15.md)
 
+# Class 301 #
 
+[Class 1 Notes](301/class3.1.md)
+
+[Class 2 Notes](301/class3.2.md)
+
+[Class 3 Notes](301/class3.3.md)
+
+[Class 4 Notes](301/class3.4.md)
+
+[Class 5 Notes](301/class3.5.md)
+
+[Class 6 Notes](301/class3.6.md)
+
+[Class 7 Notes](301/class3.7.md)
+
+[Class 8 Notes](301/class3.8.md)
+
+[Class 9 Notes](301/class3.9.md)
+
+[Class 10 Notes](301/class3.10.md)
+
+[Class 11 Notes](301/class3.11.md)
+
+[Class 12 Notes](301/class3.12.md)
+
+[Class 13 Notes](301/class3.13.md)
+
+[Class 14 Notes](301/class3.14.md)
+
+[Class 15 Notes](301/class3.15.md)
