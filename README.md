@@ -23,7 +23,7 @@ Reminders to maintain growth mindset:
 
 # Table of Contents
 
-# Class 102 #
+# Code 102 - Intro to Software Development #
 
 [Class 1 Notes](102/class1.md)
 
@@ -43,7 +43,8 @@ Reminders to maintain growth mindset:
 
 [Class 8 Notes](102/class8.md)
 
-# Class 201 #
+
+# Code 201 - Foundations of Software Development #
 
 [Class 1 Notes](201/class2.1.md)
 
@@ -75,7 +76,9 @@ Reminders to maintain growth mindset:
 
 [Class 15 Notes](201/class2.15.md)
 
-# Class 301 #
+
+# Code 301 - Intermediate Software Development #
+
 
 [Class 1 Notes](301/class3.1.md)
 
