@@ -3,19 +3,34 @@
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
 **Resources from Class 2**
-- [website name](website link)
-- [website name](website link)
-- [website name](website link)
-- [website name](website link)
-- [website name](website link)
+- [React lifecycle]()
+- [React State Vs Props]()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
-**title**
-1. 
-  
-**title**
-1. 
-  
-**title**
-1.
+**React lifecycle**
+1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+  -  
+2. What is the very first thing to happen in the lifecycle of React?
+  -
+3. Put the following things in the order that they happen
+  -
+4. What does componentDidMount do?
+  -
+
+**React State Vs Props**
+1. What types of things can you pass in the props?
+  -
+2. What is the big difference between props and state?
+  - 
+3. When do we re-render our application?
+  -
+4. What are some examples of things that we could store in state?
+  -
 
 ## Things I want to know more about
