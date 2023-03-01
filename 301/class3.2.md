@@ -5,23 +5,16 @@
 **Resources from Class 2**
 - [React lifecycle]()
 - [React State Vs Props]()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 **React lifecycle**
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
-  -  
+  -  It is first rendered
 2. What is the very first thing to happen in the lifecycle of React?
-  -
+  - The mount face where props and state are defined / configured
 3. Put the following things in the order that they happen
   -
 4. What does componentDidMount do?
-  -
+  - Allows us to execute react code when the component is already placed in the DOM
 
 **React State Vs Props**
 1. What types of things can you pass in the props?
