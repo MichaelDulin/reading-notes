@@ -27,7 +27,8 @@
   } else {
     console.log(false);
   }
-  - x===y ? true : false;
+  - val = x===y ? true : false;
+  - console.log(val);
 
  
 ## Things I want to know more about
