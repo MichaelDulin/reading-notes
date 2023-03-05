@@ -32,22 +32,22 @@
  - Combining objects
  - Converting NodeList to an array
 3. Give an example of using the spread operator to combine two arrays.
-  - 
+  - const ourArray = [...myArray,...yourArray]
 4. Give an example of using the spread operator to add a new item to an array.
-  - 
+  - const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
 5. Give an example of using the spread operator to combine two objects into one.
-  - 
+  - const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
   
   
 **React: How to Pass Functions between Components**
 1.In the video, what is the first step that the developer does to pass functions between components?
-  -
+  - Use props and state
 2. In your own words, what does the increment function do?
-  - 
+  - Add's one to current value 
 3. How can you pass a method from a parent component into a child component?
-  - 
+  - As a prop
 4. How does the child component invoke a method that was passed to it from a parent component?
-  - 
+  - Using a constructor to assign value from prop to new local name
 
 
 ## Things I want to know more about
