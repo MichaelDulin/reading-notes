@@ -21,7 +21,7 @@
 
   
 **JavaScript error messages**
-1.What is a ‘reference error’?
+1. What is a ‘reference error’?
   -
 2. What is a ‘syntax error’?
   - 
