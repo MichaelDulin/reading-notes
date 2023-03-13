@@ -3,44 +3,44 @@
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
 **Resources from Class 11**
-- [website name](website link)
-- [website name](website link)
-- [website name](website link)
-- [website name](website link)
-- [website name](website link)
+- [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+- [SQL vs NoSQL or MySQL vs MongoDB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
-**title**
-1.
+
+**nosql vs sql**
+1. What kind of data is a good fit for an SQL database?
   -
-2. 
+2. Give a real world example.
   - 
-3. 
+3. What kind of data is a good fit a NoSQL database?
   - 
-4. 
+4. Give a real world example.
   - 
+5. Which type of database is best for hierarchical data storage?
+  -
+6. Which type of database is best for scalability?
+  -
 
   
-**title**
-1.
+**SQL vs NoSQL or MySQL vs MongoDB**
+1. What does SQL stand for?
   -
-2. 
+2. What is a relational database?
   - 
-3. 
+3. What type of structure does a relational database work with?
   - 
-4. 
-  - 
- 
-  
-**title**
-1.
+4. What is a ‘schema’?
   -
-2. 
-  - 
-3. 
-  - 
-4. 
-  - 
-
+5. What is a NoSQL database?
+ -
+6. How does it work?
+  -
+7. What is inside of a MongoDB database?
+  -
+8. Which is more flexible - SQL or MongoDB? and why.
+  -
+9. What is the disadvantage of a NoSQL database?
+  -
 
 
 ## Things I want to know more about
