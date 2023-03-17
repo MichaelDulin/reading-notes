@@ -52,13 +52,13 @@
 3. What is your Git flow?
   - 
 4. Will you be using a PR review workflow? If so, consider:
-  - How many people must review a PR?
+  a. How many people must review a PR?
     - 
-  - Who merges PRs?
+  b. Who merges PRs?
     - 
-  - How often will you merge?
+  c. How often will you merge?
     - 
-  - How will you communicate that it’s time to merge?
+  d. How will you communicate that it’s time to merge?
     - 
   
 ## Presentation Deck
@@ -79,3 +79,8 @@
   - Summary
   - What problem or pain point does it solve? Keep it high level without going into too much detail. (3-4 sentences is enough)
   - Minimum Viable Product (MVP) definition.
+
+## Wireframe
+
+
+## Flowchart
