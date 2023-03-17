@@ -61,9 +61,6 @@
   d. How will you communicate that it’s time to merge?
     - 
   
-## Presentation Deck
-[Presentation Deck Template](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31)
-  
 ## Project Idea Pitches
 1. Name
   - Summary
@@ -84,3 +81,14 @@
 
 
 ## Flowchart
+
+
+## WRRC
+
+
+## Resources
+1. [Presentation Deck Template](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31)
+2. [Trello]()
+3. [Netlify]()
+4. [Render]()
+5. [MongoDB]()
