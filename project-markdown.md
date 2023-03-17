@@ -1,4 +1,4 @@
-## <Project-Name> ##
+## Project-Name ##
 
 ## Cooperation Plan
 What are the key strengths of each person on the team?
@@ -65,17 +65,17 @@ Will you be using a PR review workflow? If so, consider:
 [Presentation Deck Template](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit#slide=id.g2accd1c413_3_31)
   
 ## Project Idea Pitches
-1. <Name>
+1. Name
   - Summary
   - What problem or pain point does it solve? Keep it high level without going into too much detail. (3-4 sentences is enough)
   - Minimum Viable Product (MVP) definition.
   
-2. <Name>
+2. Name
   - Summary
   - What problem or pain point does it solve? Keep it high level without going into too much detail. (3-4 sentences is enough)
   - Minimum Viable Product (MVP) definition.
   
-3. <Name>
+3. Name
   - Summary
   - What problem or pain point does it solve? Keep it high level without going into too much detail. (3-4 sentences is enough)
   - Minimum Viable Product (MVP) definition.
