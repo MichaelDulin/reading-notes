@@ -29,7 +29,7 @@
   - Reusable: The use of reusable components means that they can be used to spread the development and maintenance cost across several applications or systems.
   - Modification of technical complexity − A component modifies the complexity through the use of a component container and its services.
   - Reliability: The overall system reliability increases since the reliability of each individual component enhances the reliability of the whole system via reuse.
-  -System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
+  - System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
   - Independent: Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
   
 **What is Props and How to Use it in React**
