@@ -11,7 +11,7 @@
 
 **Emotional Intelligence**
  
-Emotional intellegence is incredibly important, not just as an individual, but within the workplace. There are certain aspects to emotional intellengence that if ignored can directly impact your life and ability to find a job. Being able to monitor ones emotions as well as understand where they may be rising from is something we all work on throughout the entirety of our lives. I personally have exerience this growth throughout mine. For instance, the way I go about thinking about issues and problems has evovled entirely. Another example of how I know I have grown in this sense is my response to outside stimuli, whether this be another person or situation. 
+Emotional intelligence is incredibly important, not just as an individual, but within the workplace. There are certain aspects to emotional intelligence that if ignored can directly impact your life and ability to find a job. Being able to monitor ones emotions as well as understand where they may be rising from is something we all work on throughout the entirety of our lives. I personally have experience this growth throughout mine. For instance, the way I go about thinking about issues and problems has evolved entirely. Another example of how I know I have grown in this sense is my response to outside stimuli, whether this be another person or situation.
   
 **Biases**
 
