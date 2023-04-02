@@ -23,6 +23,10 @@ Reminders to maintain growth mindset:
 
 # Table of Contents
 
+[ES6 Features](http://es6-features.org/#Constants)
+[Eloquent JavaScript](https://eloquentjavascript.net/)
+[You Don't Know JS Series](https://github.com/getify/You-Dont-Know-JS)
+
 # Code 102 - Intro to Software Development #
 
 [Class 1 Notes](102/class1.md)
