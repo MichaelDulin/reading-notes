@@ -1,8 +1,8 @@
-# Class 4.1 Reading Assignment
+# Class 4.13 Reading Assignment
 
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
-**Resources from Class 1**
+**Resources from Class 13**
 - [Socket.io Chat Example](https://socket.io/get-started/chat/)
 - [Rooms](https://socket.io/docs/v4/rooms)
 - [Namespaces](https://socket.io/docs/v4/namespaces/)
