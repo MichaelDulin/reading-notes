@@ -25,6 +25,8 @@
 - Heaight:
   - The height of a tree is the number of edges from the root to the furthest leaf
 
+****
+
 **Traversals**
 - Depth First: 
   - Priorite going throught the depth(height) of the tree first
@@ -38,9 +40,13 @@
   - Iterates through the tree by going through each level node-by-node
   - Linear 
 
+****
+
 **K-ary Trees**
 - Nodes are able to have more than to children
 - 'K' refers to the max # of children each node may have
+
+****
 
 **Binary Search Tree (BST)**
 - Does not have a specified structure as it stores value in numerical order
