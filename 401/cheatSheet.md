@@ -43,7 +43,7 @@
 3. Translate
 4. Animate
 
-**Advanced Shit**
+**Advanced Styles**
 1. Background Patterns
 2. Creating Unique Borders / Shapes (Overlay)
 3. Advanced Gradients
@@ -103,28 +103,30 @@
 
 ## Data Structures
 
-1. 
-  - 
-2. 
-  - 
-3. 
-  - 
-4. 
-  -
+**Linear Data Structures**
+1. **Array**
+2. **Stack**
+3. **Queue**
+4. **Linked List**
+
+
+**Non-Linear Data Structures**
+1. **Tree**
+2. **Graph**
 
 ****
 
 
-## Algorithms
-
-1. 
-  - 
-2. 
-  - 
-3. 
-  - 
-4. 
-  -
+## Sorting Algorithms
+**Selection Sort**
+**Bubble Sort**
+**Insertion Sort**
+**Merge Sort**
+**Quick Sort**
+**Heap Sort**
+**Counting Sort**
+**Radix Sort**
+**Bucket Sort**
 
 ****
 
@@ -174,6 +176,9 @@
 ## React 
 
 **Components**
+**State**
+**Hooks**
+**Props**
 
 **
 
@@ -252,9 +257,9 @@
 
 1. Game Collector
   - 
-2. 
+2. Portfolio
   - 
-3. 
+3. Console Quest
   - 
 4. 
   - 
