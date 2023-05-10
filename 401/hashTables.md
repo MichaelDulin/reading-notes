@@ -1,4 +1,4 @@
-# Trees
+# Hash Tables
 
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
