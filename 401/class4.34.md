@@ -12,10 +12,10 @@
 1. Explain the different between a query string parameter and a path parameter.
   - 
 2. What would our API URL with a path id parameter be given the following information:
-  1. Domain: http://our-site.com
-  2. v3
-  3. model name: stuff
-  4. id: things
+  - Domain: http://our-site.com
+  - v3
+  - model name: stuff
+  - id: things
     - s
 3. We have created a dynamic API with an “interface”. Describe how that interface works to a non-technical friend.
 
