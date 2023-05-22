@@ -1,31 +1,38 @@
-# Class 4.1 Reading Assignment
+# Class 4.37 Reading Assignment
 
 [Back to main](https://michaeldulin.github.io/reading-notes)
 
-**Resources from Class 1**
-- []()
-- []()
-- []()
+**Resources from Class 37**
+- [Multiple Reducers Example]()
+- [Redux Docs: Using Combined Reducers]()
+
+**Multiple Reducers Example**
+1. Why create multiple reducers?
+  - 
+2. How would you combine multiple reducers?
+  - 
+3. How will you manage state as an immutable object? why?
+  - 
 
 ****
-1. 
+
+
+**Redux Docs: Using Combined Reducers**
+1. combineReducers is a utility function to simplify the most common use case when writing ___ _____ .
   - 
-2. 
+2. Explain how combineReducers assembles the new state tree.
   - 
-3. 
-  - 
-4. 
+3. How would you define initial state in an app using combineReducers?
   - 
 
-  
 ****
-1. 
+
+**Redux Docs: Combined Reducer Syntax**
+1. Why will you want to split your reducing functions as your app becomes more complex?
   - 
-2. 
+2. The _____ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to ____.
   - 
-3. 
-  - 
-4. 
+3. What is a popular convention when naming reducers?
   - 
 
 
